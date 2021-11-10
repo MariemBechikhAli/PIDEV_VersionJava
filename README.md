@@ -1,2 +1,2 @@
 # StockForSpeed_Java
-verdion java
+version java
